@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="8" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-30T00:16:23 IST" name="Default suite" finished-at="2022-01-30T00:16:30 IST" duration-ms="7582">
+    <groups>
+    </groups>
+    <test started-at="2022-01-30T00:16:23 IST" name="Default test" finished-at="2022-01-30T00:16:30 IST" duration-ms="7582">
+      <class name="stringProgramming.NumberProgrmming">
+        <test-method signature="fibonaci()[pri:0, instance:stringProgramming.NumberProgrmming@568ff82]" started-at="2022-01-30T00:16:23 IST" name="fibonaci" finished-at="2022-01-30T00:16:30 IST" duration-ms="7553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fibonaci -->
+      </class> <!-- stringProgramming.NumberProgrmming -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
